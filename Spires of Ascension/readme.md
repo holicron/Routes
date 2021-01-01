@@ -4,16 +4,16 @@ The only difference between fortified and tyrannical is that on tyrannical you p
 
 ## Fortified prideful
 
-20% - Before Kin-Tara
-40% - Before Goliath x2 pull
-60% - Before Goliath pull
-80% - Before Goliath pull
+20% - Before Kin-Tara\
+40% - Before Goliath x2 pull\
+60% - Before Goliath pull\
+80% - Before Goliath pull\
 100% - Before Devos
 
 ## Tyrannical prideful
 
-20% - Before Kin-Tara
-40% - (Wasted on trash)
-60% - (Wasted on trash)
-80% - Before Ventunax
+20% - Before Kin-Tara\
+40% - (Wasted on trash)\
+60% - (Wasted on trash)\
+80% - Before Ventunax\
 100% - Before Devos
