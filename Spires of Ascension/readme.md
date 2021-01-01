@@ -25,3 +25,8 @@
 60% - (Wasted on trash)\
 80% - Before Ventunax\
 100% - Before Devos
+
+## Skips
+
+![Skip1](media/SOA_skip1.png)
+![Skip2](media/SOA_skip2.png)
