@@ -2,9 +2,8 @@
 
 The only difference between fortified and tyrannical is that on tyrannical you pull two packs to the left of of Kin-Tara and on fortified only one. On fortified you get the missing count just before Oryphrion by pulling the second Usurper pack too.
 
-[Fortified route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified.txt)
-
-[Tyrannical route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Tyrannical.txt)
+* [Fortified route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified.txt)
+* [Tyrannical route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Tyrannical.txt)
 
 
 ## Fortified prideful
