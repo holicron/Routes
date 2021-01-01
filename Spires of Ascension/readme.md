@@ -8,7 +8,7 @@
 **[Tyrannical route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Tyrannical.txt)**
 * Pull TWO packs left of Kin-Tara
 
-![Skip1](media/pull1.png) ![Skip2](media/pull2.png)
+![Skip1](media/fortified.png) ![Skip2](media/tyrannical.png)
 
 ## Fortified prideful
 
