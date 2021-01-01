@@ -1,14 +1,16 @@
 # Spires of Ascension
 
 **Tyrannical**
+[Tyrannical route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Tyrannical.txt)
 * Pull TWO packs left of Kin-Tara
 
+
 **Fortified**
+[Fortified route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified.txt)
 * Pull ONE pack left of Kin-Tara
 * Pull second Usurper pack before Oryphrion
 
-* [Fortified route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified.txt)
-* [Tyrannical route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Tyrannical.txt)
+
 
 
 ## Fortified prideful
