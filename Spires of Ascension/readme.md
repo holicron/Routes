@@ -29,8 +29,8 @@
 ### [Tyrannical route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Tyrannical.txt)
 
 
-20% - **\* Kin-Tara**\
+20% - **💀 Kin-Tara**\
 40% - Kyrian Dark-Praetor\
 60% - Etherdiver x5\
-80% - **\* Ventunax**\
-100% - **\* Devos**
+80% - **💀 Ventunax**\
+100% - **💀 Devos**
