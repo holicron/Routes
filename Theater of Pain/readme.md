@@ -37,14 +37,7 @@ Routes brought to you by **Graardor**!
 | Prideful | Pull | Lust |
 | :-- | :-- | :-- |
 | 20%  | Captain pack (Xav wing) | |
-| 40%  | **💀 Xav the unfallen**\ | |
-| 60%  | Portal Guardian\ | |
-| 80%  | **💀 Kul'tharok**\ | 💢 |
+| 40%  | **💀 Xav the unfallen** | |
+| 60%  | Portal Guardian | |
+| 80%  | **💀 Kul'tharok** | 💢 |
 | 100% | **💀 Mordretha, the Endless** | 💢 |
-
-
-20% - Captain pack (Xav wing)\
-40% - **💀 Xav the unfallen**\
-60% - Portal Guardian\
-80% - **💀 Kul'tharok**\
-100% - **💀 Mordretha, the Endless**
