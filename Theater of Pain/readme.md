@@ -34,6 +34,8 @@ Routes brought to you by **Graardor**!
 
 ### [Xav (P), Kul (TW, P), Chop](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Xav%20(P)%2C%20Kul%20(TW%2C%20P)%2C%20Chop.txt)
 
+| Prideful | Pull | Lust |
+| ---      | ---       |
 | 20%  | Captain pack (Xav wing) | |
 | 40%  | **💀 Xav the unfallen**\ | |
 | 60%  | Portal Guardian\ | |
