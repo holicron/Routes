@@ -10,6 +10,7 @@
 | 40% | Kyrian Dark-Praetor | |
 | 60% | Etherdiver x5 | |
 | 80% | **💀 Ventunax** | |
+|  | **💀 Oryphrion** | |
 | 100% | **💀 Devos** | |
 
 ---
@@ -24,6 +25,7 @@
 | 40% | Goliath x2 pull | |
 | 60% | Goliath pull | |
 | 80% | Goliath | |
+|  | **💀 Oryphrion** | |
 | 100% | **💀 Devos** | |
 
 ---
@@ -38,4 +40,5 @@
 | 40% | Kyrian Dark-Praetor | |
 | 60% | Etherdiver x5 | |
 | 80% | **💀 Ventunax** | |
+|  | **💀 Oryphrion** | |
 | 100% | **💀 Devos** | |
