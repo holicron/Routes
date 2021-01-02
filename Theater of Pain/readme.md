@@ -7,7 +7,7 @@ Routes brought to you by **Graardor**!
 
 ![Fortified](../__media/fortified.png)
 
-### [💾 EZ fortified](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/EZ%20Fortified.txt)
+### [➡️ EZ fortified](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/EZ%20Fortified.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
@@ -24,7 +24,7 @@ Routes brought to you by **Graardor**!
 
 ![Tyrannical](../__media/tyrannical.png)
 
-### [💾 Kul (P), Xav (TW, P), Chop](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Kul%20(P)%2C%20Xav%20(TW%2C%20P)%2C%20Chop.txt)
+### [➡️ Kul (P), Xav (TW, P), Chop](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Kul%20(P)%2C%20Xav%20(TW%2C%20P)%2C%20Chop.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
@@ -39,7 +39,7 @@ Routes brought to you by **Graardor**!
 
 ![Tyrannical](../__media/tyrannical.png)
 
-### [💾 Xav (P), Kul (TW, P), Chop](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Xav%20(P)%2C%20Kul%20(TW%2C%20P)%2C%20Chop.txt)
+### [➡️ Xav (P), Kul (TW, P), Chop](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Xav%20(P)%2C%20Kul%20(TW%2C%20P)%2C%20Chop.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
