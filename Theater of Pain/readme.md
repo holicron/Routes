@@ -5,7 +5,7 @@ Routes brought to you by **Graardor**
 
 
 
-![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
+![Fortified](../__media/fortified.png)
 
 ### [EZ fortified](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/EZ%20Fortified.txt)
 
