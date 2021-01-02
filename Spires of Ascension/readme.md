@@ -5,9 +5,9 @@
 ![Fortified](../__media/fortified.png)
 
 
-**[Fortified #1 route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified.txt)**
+**[Fortified #1 route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified%20%231.txt)**
 
-**[Fortified #2 route (with skip)](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified.txt)**
+**[Fortified #2 route (with skip)](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified%20%232.txt)**
 
 
 ### Fortified prideful timing
@@ -18,7 +18,6 @@
 80% - Before Goliath pull\
 100% - Before Devos
 
-## Tyrannical
 
 ![Tyrannical](../__media/tyrannical.png)
 
