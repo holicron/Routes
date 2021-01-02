@@ -40,4 +40,5 @@ Routes brought to you by **Graardor**!
 | 40%  | **💀 Xav the unfallen** | |
 | 60%  | Portal Guardian | |
 | 80%  | **💀 Kul'tharok** | 💢 |
+| |  **💀 Gorechop** | |
 | 100% | **💀 Mordretha, the Endless** | 💢 |
