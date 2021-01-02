@@ -1,8 +1,8 @@
 # Spires of Ascension
 
-![Fortified](../__media/fortified.png) + ![Tyrannical](../__media/tyrannical.png)
+![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
-### [Generic route (requires skip)](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Generic.txt)
+### [Generic route (with skip)](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Generic.txt)
 
 20% - Before Kin-Tara\
 40% - Before Goliath x2 pull\
@@ -14,7 +14,7 @@
 
 ![Fortified](../__media/fortified.png)
 
-### [Fortified route (no skips)](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified.txt)
+### [Fortified route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified.txt)
 
 20% - Before Kin-Tara\
 40% - Before Goliath x2 pull\
@@ -25,7 +25,7 @@
 
 ![Tyrannical](../__media/tyrannical.png)
 
-### [Tyrannical route (no skips)](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Tyrannical.txt)
+### [Tyrannical route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Tyrannical.txt)
 
 
 20% - Before Kin-Tara\
