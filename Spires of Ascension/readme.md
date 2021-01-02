@@ -14,7 +14,7 @@
 
 ![Fortified](../__media/fortified.png)
 
-### [Fortified route #1](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified%20%231.txt)
+### [Fortified route (no skips)](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified.txt)
 
 20% - Before Kin-Tara\
 40% - Before Goliath x2 pull\
@@ -25,7 +25,7 @@
 
 ![Tyrannical](../__media/tyrannical.png)
 
-### [Tyrannical route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Tyrannical.txt)
+### [Tyrannical route (no skips)](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Tyrannical.txt)
 
 
 20% - Before Kin-Tara\
