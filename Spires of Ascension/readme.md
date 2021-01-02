@@ -3,12 +3,15 @@
 
 **[Fortified #1 route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified.txt)**
 
-**[Fortified #2 route (with skip)](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified.txt)
+**[Fortified #2 route (with skip)](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified.txt)**
 
 **[Tyrannical route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Tyrannical.txt)**
 
 
-## Fortified prideful
+![Fortified](../_media/fortified.png)
+![Tyrannical](../_media/tyrannical.png)
+
+### Fortified prideful timing
 
 20% - Before Kin-Tara\
 40% - Before Goliath x2 pull\
@@ -16,7 +19,7 @@
 80% - Before Goliath pull\
 100% - Before Devos
 
-## Tyrannical prideful
+### Tyrannical prideful timing
 
 20% - Before Kin-Tara\
 40% - (Wasted on trash)\
