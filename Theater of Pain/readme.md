@@ -11,6 +11,7 @@ Routes brought to you by **Graardor**!
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
+| | **💀An Affront to Challengers** | 💢 |
 | 20%  | Captain pack | |
 | 40% | **💀 Xav the Unfallen** | |
 | 60%  | Nefarious Darkspeaker x2 | |
@@ -28,6 +29,7 @@ Routes brought to you by **Graardor**!
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
+| | **💀An Affront to Challengers** | 💢 |
 | 20% | Bone Magus x2 | |
 | 40% | **💀 Kul'tharok** | |
 | 60% | **💀 Xav the Unfallen** | 💢 |
@@ -43,6 +45,7 @@ Routes brought to you by **Graardor**!
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
+| | **💀An Affront to Challengers** | 💢 |
 | 20%  | Captain pack (Xav wing) | |
 | 40%  | **💀 Xav the unfallen** | |
 | 60%  | Portal Guardian | |
