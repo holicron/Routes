@@ -8,8 +8,8 @@
 **[Tyrannical route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Tyrannical.txt)**
 
 
-![Fortified](../_media/fortified.png)
-![Tyrannical](../_media/tyrannical.png)
+![Fortified](../__media/fortified.png)
+![Tyrannical](../__media/tyrannical.png)
 
 ### Fortified prideful timing
 
