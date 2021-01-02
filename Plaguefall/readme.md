@@ -6,7 +6,7 @@ Routes brought to you by **Graardor** and **Jack**!
 
 ![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
-### [EZ fortified](https://raw.githubusercontent.com/holicron/Routes/main/Plaguefall/EZ%20Plague.txt)
+### [EZ Plague](https://raw.githubusercontent.com/holicron/Routes/main/Plaguefall/EZ%20Plague.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
