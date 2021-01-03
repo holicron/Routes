@@ -13,7 +13,7 @@
 |  | **💀 Ventunax** |💢 |
 | 80% | Goliath | |
 |  | **💀 Oryphrion** | |
-| 100% | **💀 Devos** | |
+| 100% | **💀 Devos** | 💢 |
 
 ---
 
@@ -28,7 +28,7 @@
 | 60% | Etherdiver x5 | |
 | 80% | **💀 Ventunax** | 💢 |
 |  | **💀 Oryphrion** | |
-| 100% | **💀 Devos** | 💢? |
+| 100% | **💀 Devos** | 💢 |
 
 ---
 
@@ -38,10 +38,10 @@
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
-| 20% | **💀 Kin-Tara** | |
+| 20% | **💀 Kin-Tara** | 💢 |
 | 40% | Kyrian Dark-Praetor | |
 | 60% | Etherdiver x5 | |
-| 80% | **💀 Ventunax** | |
+| 80% | **💀 Ventunax** | 💢 |
 |  | **💀 Oryphrion** | |
-| 100% | **💀 Devos** | |
+| 100% | **💀 Devos** | 💢 |
 
