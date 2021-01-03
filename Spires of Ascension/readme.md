@@ -23,7 +23,8 @@
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
-| 20% | **💀 Kin-Tara** | 💢 |
+|  | First pull | ? |
+| 20% | **💀 Kin-Tara** | ? |
 | 40% | Kyrian Dark-Praetor | |
 | 60% | Etherdiver x5 | |
 | 80% | **💀 Ventunax** | 💢 |
@@ -35,6 +36,8 @@
 ![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
 ### [Generic route (with skip)](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Generic.txt)
+
+A bit more risky
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
