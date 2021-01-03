@@ -23,8 +23,7 @@
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
-|  | First pull | ? |
-| 20% | **💀 Kin-Tara** | ? |
+| 20% | **💀 Kin-Tara** | 💢 |
 | 40% | Kyrian Dark-Praetor | |
 | 60% | Etherdiver x5 | |
 | 80% | **💀 Ventunax** | 💢 |
@@ -41,7 +40,8 @@ A bit more risky
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
-| 20% | **💀 Kin-Tara** | 💢 |
+|  | First pull | FOR |
+| 20% | **💀 Kin-Tara** | TYR |
 | 40% | Kyrian Dark-Praetor | |
 | 60% | Etherdiver x5 | |
 | 80% | **💀 Ventunax** | 💢 |
