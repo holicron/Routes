@@ -1,7 +1,7 @@
 # Theater of Pain
 
 
-Routes brought to you by **Graardor**!
+Routes brought to you by **Graar** and **Hylo**!
 
 
 
@@ -25,7 +25,7 @@ Routes brought to you by **Graardor**!
 
 ![Tyrannical](../__media/tyrannical.png)
 
-### [Tyrannical Final](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Tyrannical%20Final.txt)
+### [Tyrannical Final v2](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Tyrannical%20Final%20v2.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
@@ -36,5 +36,22 @@ Routes brought to you by **Graardor**!
 | 80% | Large pack after Gasbag | |
 | |  **💀 Gorechop** | |
 | 100% | **💀 Mordretha, the Endless** | 💢 |
+
+---
+
+![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
+
+### [Easy time pugging](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Easy%20time%20pugging.txt)
+
+| Pride | Pull | Lust |
+| :-- | :-- | :-- |
+| | **💀An Affront to Challengers** | 💢 |
+| 20%  | Portal Guardian | |
+| 40% | **💀 Kul'tharok** | 💢 |
+| 60% | Pack just before Gorechop |  |
+| | **💀 Gorechop** |  |
+| 80% | Captain pack |  |
+| 100% | **💀 Xav the Unfallen** |  |
+|  | **💀 Mordretha, the Endless** | 💢 |
 
 ---
