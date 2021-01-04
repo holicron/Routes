@@ -2,7 +2,7 @@
 
 
 ![Fortified](../__media/fortified.png)
-### [Fortified route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Fortified.txt)
+### [Fortified](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Fortified.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
@@ -19,7 +19,7 @@
 
 ![Tyrannical](../__media/tyrannical.png)
 
-### [Tyrannical route](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Tyrannical.txt)
+### [Tyrannical](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Tyrannical.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
@@ -34,7 +34,7 @@
 
 ![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
-### [Generic route (with skip)](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Spires%20of%20Ascension%20-%20Generic.txt)
+### [Generic with skip](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Generic%20with%20skip.txt)
 
 A bit more risky
 
