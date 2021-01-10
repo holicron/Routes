@@ -1,6 +1,6 @@
 # Plaguefall
 
-Route brought to you by **Graardor** and **Jack**!
+Route brought to you by **Graar** and **Jack**!
 
 
 
