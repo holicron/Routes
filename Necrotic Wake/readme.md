@@ -9,10 +9,10 @@ Route brought to you by **Graar**!
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
-| 20%  | **💀 Blightbone** | ?  |
+| 20%  | **💀 Blightbone** |  |
 | 40% | Skeletal Monstosity | |
 | 60%  | **💀 Amarth** | 💢 |
 | 80%  | Large pack upstairs |  |
-| 100% | **💀 Surgeon Stitchflesh** |  |
+| 100% | **💀 Surgeon Stitchflesh** | 💢 |
 |  | **💀 Nalthor the Rimebinder** |  |
 

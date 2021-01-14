@@ -24,9 +24,9 @@ Routes brought to you by **Graar**!
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
 | 20% | Shard of Halkias | |
-| 40% | Gargon + Obliterator | |
-| 60% | **💀 Halkias** |  |
+| 40% | Large Gargon pack | |
+| 60% | **💀 Halkias** | 💢 |
 | 80% | **💀 Echelon** |  |
 |  | **💀 High Adjudicator Aleez** |  |
-| 100% | **💀 Lord Chamberlain** |  |
+| 100% | **💀 Lord Chamberlain** | 💢 |
 
