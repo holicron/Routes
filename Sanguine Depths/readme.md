@@ -13,8 +13,7 @@ Route brought to you by **Graar**!
 | 40% | Head Custodian Javlin | |
 | 60% | ~ Scribe pack | |
 | 80%  | **💀 Grand Proctor Beryllia** |  |
-| 100%| Last trashpack (huntmaster) | |
-|  | **💀 General Kaal** |  |
+| 100% | **💀 General Kaal** |  |
 
 ---
 
@@ -25,10 +24,9 @@ Route brought to you by **Graar**!
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
 | 20%  | **💀 Kryxis the Voracious** |  |
-| 40% | Head Custodian Javlin | |
-| 60% | ~ Scribe pack | |
-| 80%  | **💀 Grand Proctor Beryllia** |  |
-| 100%| Last trashpack (huntmaster) | |
-|  | **💀 General Kaal** |  |
+| 40% | Warden + Scribe | |
+| 60% | **💀 Executor Tarvold** | |
+| 80% | **💀 Grand Proctor Beryllia** |  |
+| 100% | **💀 General Kaal** | |
 
 

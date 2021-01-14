@@ -7,7 +7,7 @@ Routes brought to you by **Graar** and **Hylo**!
 
 ![Fortified](../__media/fortified.png)
 
-### [EZ fortified](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/EZ%20Fortified.txt)
+### [EZ fortified](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/EZ_Fortified.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
@@ -25,7 +25,7 @@ Routes brought to you by **Graar** and **Hylo**!
 
 ![Tyrannical](../__media/tyrannical.png)
 
-### [Tyrannical Final v2](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Tyrannical%20Final%20v2.txt)
+### [Tyrannical Final v2](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Tyrannical_Final_v2.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
@@ -41,7 +41,7 @@ Routes brought to you by **Graar** and **Hylo**!
 
 ![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
-### [Easy time pugging](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Easy%20time%20pugging.txt)
+### [Easy time pugging](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Easy_time_pugging.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
