@@ -1,9 +1,9 @@
 # Halls of Atonement
 
-Routes brought to you by **Graar**!
 
 ![Fortified](../__media/fortified.png)
 ### [Angry Gargons v2](https://raw.githubusercontent.com/holicron/Routes/main/Halls%20of%20Atonement/Angry_Gargons_v2.txt)
+By Graar
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
@@ -20,6 +20,7 @@ Routes brought to you by **Graar**!
 ![Tyrannical](../__media/tyrannical.png)
 
 ### [Buggy Beams?](https://raw.githubusercontent.com/holicron/Routes/main/Halls%20of%20Atonement/Buggy_Beams.txt)
+By Graar
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
