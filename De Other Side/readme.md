@@ -17,7 +17,7 @@ Route brought to you by **Graar**!
 | 100% | **💀 Dealer Xy'exa** | 💢 |
 |  | **💀 Mueh'zala** |  |
 
-
+---
 
 ![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 

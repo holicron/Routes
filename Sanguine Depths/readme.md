@@ -16,6 +16,8 @@ Route brought to you by **Graar**!
 | 100%| Last trashpack (huntmaster) | |
 |  | **💀 General Kaal** |  |
 
+---
+
 ![Tyrannical](../__media/tyrannical.png) 
 
 ### [EZ Tyra Refined v2](https://raw.githubusercontent.com/holicron/Routes/main/Sanguine%20Depths/EZ_Tyra_Refined_v2.txt)
