@@ -5,7 +5,7 @@ Route brought to you by **Graar**!
 
 ![Fortified](../__media/fortified.png) 
 
-### [Winnable Fortified v2](https://raw.githubusercontent.com/holicron/Routes/main/Sanguine%20Depths/Winnabl_Fortified_v2.txt)
+### [Winnable Fortified v2](https://raw.githubusercontent.com/holicron/Routes/main/Sanguine%20Depths/Winnable_Fortified_v2.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
