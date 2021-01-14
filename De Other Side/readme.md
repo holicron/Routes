@@ -21,7 +21,7 @@ Route brought to you by **Graar**!
 
 ![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
-
+< Deprecated? >
 ### [Hung Mungus](https://raw.githubusercontent.com/holicron/Routes/main/De%20Other%20Side/Hung%20Mungus.txt)
 
 | Pride | Pull | Lust |
