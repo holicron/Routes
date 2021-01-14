@@ -10,7 +10,6 @@ Route brought to you by **Graar**!
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
-| | First pull | FOR |
 | 20% | Risen Warlord x2 | |
 | 40%  | **💀 Hakkar** | 💢 |
 | 60%  | **💀 Manastorms** | |
