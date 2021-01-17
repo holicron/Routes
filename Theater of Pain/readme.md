@@ -39,6 +39,13 @@ Routes brought to you by **Graar** and **Hylo**!
 
 ---
 
+![Tyrannical](../__media/tyrannical.png)
+
+### [Ly's Rebel Route](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Ly's_Rebel_Route.txt)
+
+
+---
+
 ![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
 ### [Easy time pugging](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Easy_time_pugging.txt)
