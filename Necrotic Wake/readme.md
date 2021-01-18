@@ -1,12 +1,23 @@
 # Necrotic Wake
 
-Route brought to you by **Graar**!
+Routes brought to you by **Graar**!
 
 
 
 ![Fortified](../__media/fortified.png)
 
 ### [Double Skip Fort](https://raw.githubusercontent.com/holicron/Routes/main/Necrotic%20Wake/Double_Skip_Fort.txt)
+
+
+| Pride | Pull | Lust |
+| :-- | :-- | :-- |
+| 20%  | **💀 Blightbone** |  |
+| 40% | Necromancer pack | |
+| 60% | Sorcerer + Bonecarver | |
+|      | **💀 Amarth** |  |
+| 80%  | Stitchwerk pack upstairs |  |
+| 100% | **💀 Surgeon Stitchflesh** |  |
+|  | **💀 Nalthor the Rimebinder** |  |
 
 ---
 
