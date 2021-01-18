@@ -25,7 +25,7 @@ Routes brought to you by **Graar** and **Hylo**!
 
 ![Fortified](../__media/fortified.png)
 
-### [EZ fortified](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/EZ_Fortified.txt)
+### [EZ fortified (OG)](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/EZ_Fortified.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
