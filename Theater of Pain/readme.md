@@ -7,7 +7,7 @@ Routes brought to you by **Graar** and **Hylo**!
 
 ![Fortified](../__media/fortified.png)
 
-### [EZ fortified v3](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/EZ_Fortified_v3.txt)
+### [EZ fortified Final](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/EZ_Fortified_Final.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
@@ -18,32 +18,15 @@ Routes brought to you by **Graar** and **Hylo**!
 | 60%  | Captain pack | |
 |  | **💀 Xav the Unfallen** | |
 | 80% | Large pack after Gasbag | |
-| |  **💀 Gorechop** | |
-| 100% | **💀 Mordretha, the Endless** | 💢 |
-
----
-
-![Fortified](../__media/fortified.png)
-
-### [EZ fortified (OG)](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/EZ_Fortified.txt)
-
-| Pride | Pull | Lust |
-| :-- | :-- | :-- |
-| | **💀An Affront to Challengers** | 💢 |
-| 20%  | Captain pack | |
-| 40% | **💀 Xav the Unfallen** | |
-| 60%  | Nefarious Darkspeaker x2 | |
-|   | **💀 Kul'tharok** | 💢 |
-| 80% | Large pack after Gasbag | |
-| |  **💀 Gorechop** | |
-| 100% | **💀 Mordretha, the Endless** | 💢 |
+| |  **💀 Gorechop** | 💢? |
+| 100% | **💀 Mordretha, the Endless** | 💢? |
 
 ---
 
 
-![Tyrannical](../__media/tyrannical.png)
+![Perfect Tyrannical](../__media/tyrannical.png)
 
-### [Tyrannical Final v2](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Tyrannical_Final_v2.txt)
+### [Pergect Tyrannical](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Perfect_Tyrannical.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
@@ -53,22 +36,6 @@ Routes brought to you by **Graar** and **Hylo**!
 | 60% | **💀 Gorechop** | |
 | 80%  | Captain pack | |
 |  | **💀 Xav the Unfallen** |  |
-| 100% | **💀 Mordretha, the Endless** | 💢 |
-
----
-
-![Tyrannical](../__media/tyrannical.png)
-
-### [Ly's Rebel Route Refined](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Ly's_Rebel_Route_Refined.txt)
-
-| Pride | Pull | Lust |
-| :-- | :-- | :-- |
-| | **💀An Affront to Challengers** | 💢 |
-| 20% | Bone Magus x2 | |
-| 40% | **💀 Kul'tharok** | 💢 |
-| 60% | **💀 Xav the Unfallen** |  |
-| 80% | Large pack after Gasbag | |
-| |  **💀 Gorechop** | |
 | 100% | **💀 Mordretha, the Endless** | 💢 |
 
 ---
