@@ -8,6 +8,7 @@ Routes brought to you by **Graar** and **Hylo**!
 ![Fortified](../__media/fortified.png)
 
 ### [EZ fortified Final](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/EZ_Fortified_Final.txt)
+You can choose to lust Gorechop or Mordtretha according to which is easier for you
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
@@ -26,7 +27,7 @@ Routes brought to you by **Graar** and **Hylo**!
 
 ![Perfect Tyrannical](../__media/tyrannical.png)
 
-### [Pergect Tyrannical](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Perfect_Tyrannical.txt)
+### [Perfect Tyrannical](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Perfect_Tyrannical.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
@@ -43,7 +44,7 @@ Routes brought to you by **Graar** and **Hylo**!
 ![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
 
 ### [Easy time pugging](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Easy_time_pugging.txt)
-
+Route without the Bloodhorn skip for easy pugging
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
 | | **💀An Affront to Challengers** | 💢 |
