@@ -6,16 +6,16 @@ Routes brought to you by **Graar**!
 
 ![Fortified](../__media/fortified.png)
 
-### [Double Skip Fort](https://raw.githubusercontent.com/holicron/Routes/main/Necrotic%20Wake/Double_Skip_Fort.txt)
+### [Double Skip Fort Final](https://raw.githubusercontent.com/holicron/Routes/main/Necrotic%20Wake/Double_Skip_Fort_Final.txt)
 
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
 | 20%  | **💀 Blightbone** |  |
 | 40% | Necromancer pack | |
-| 60% | Sorcerer + Bonecarver | |
+| 60% | Marauder pack | |
 |      | **💀 Amarth** |  |
-| 80%  | Stitchwerk pack upstairs |  |
+| 80%  | Kyrian Stitchwerk pack upstairs |  |
 | 100% | **💀 Surgeon Stitchflesh** |  |
 |  | **💀 Nalthor the Rimebinder** |  |
 
