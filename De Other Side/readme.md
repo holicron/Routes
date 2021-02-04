@@ -19,10 +19,9 @@ Route brought to you by **Graar**!
 
 ---
 
-![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
+![Fortified](../__media/fortified.png) 
 
-< Deprecated? >
-### [Hung Mungus](https://raw.githubusercontent.com/holicron/Routes/main/De%20Other%20Side/Hung%20Mungus.txt)
+### [Graar's Fortified](https://raw.githubusercontent.com/holicron/Routes/main/De%20Other%20Side/Graar's_Fortified.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
