@@ -41,26 +41,8 @@
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
 | 20% | **💀 Kin-Tara** | 💢 |
-| 40% | Kyrian Dark-Praetor | |
-| 60% | Etherdiver x5 | |
-| 80% | **💀 Ventunax** | 💢 |
-|  | **💀 Oryphrion** | |
-| 100% | **💀 Devos** | 💢 |
-
----
-
-![Fortified](../__media/fortified.png) ![Tyrannical](../__media/tyrannical.png)
-
-### [Generic with skip](https://raw.githubusercontent.com/holicron/Routes/main/Spires%20of%20Ascension/Generic%20with%20skip.txt)
-
-A bit more risky
-
-| Pride | Pull | Lust |
-| :-- | :-- | :-- |
-|  | First pull | FOR |
-| 20% | **💀 Kin-Tara** | TYR |
-| 40% | Kyrian Dark-Praetor | |
-| 60% | Etherdiver x5 | |
+| 40% | Etherdiver x5 | |
+| 60% | Goliath + Etherdiver x3 | |
 | 80% | **💀 Ventunax** | 💢 |
 |  | **💀 Oryphrion** | |
 | 100% | **💀 Devos** | 💢 |

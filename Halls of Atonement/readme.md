@@ -7,7 +7,7 @@ Routes brought to you by **Graar**!
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
-| 20% | Shard of Halkias | |
+| 20% | Shard of Halkias + Groundskeepers | |
 | 40% | Shard of Halkias | |
 | 60% | Shard of Halkias | |
 | | **💀 Halkias** |  |

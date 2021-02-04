@@ -10,7 +10,7 @@ Route brought to you by **Graar**!
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
 | 20%  | **💀 Kryxis the Voracious** |  |
-| 40% | Head Custodian Javlin | |
+| 40% | Overseer + Oppressor x2 | |
 | 60% | ~ Scribe pack | |
 | 80%  | **💀 Grand Proctor Beryllia** |  |
 | 100% | **💀 General Kaal** |  |

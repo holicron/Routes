@@ -2,8 +2,6 @@
 
 Route brought to you by **Graar**!
 
-![Tyrannical](../__media/tyrannical.png)
-
 
 ![Fortified](../__media/fortified.png) 
 
@@ -11,7 +9,7 @@ Route brought to you by **Graar**!
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
-| | First pull | FOR |
+| | First pull | 💢 |
 | 20% | Risen Warlord x2 | |
 | 40%  | **💀 Hakkar** | 💢 |
 | 60%  | **💀 Manastorms** | |
@@ -21,6 +19,7 @@ Route brought to you by **Graar**!
 
 ---
 
+![Tyrannical](../__media/tyrannical.png)
 
 ### [Graar's Tyrannical](https://raw.githubusercontent.com/holicron/Routes/main/De%20Other%20Side/Graar's_Tyrannical.txt)
 
