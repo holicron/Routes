@@ -1,7 +1,12 @@
 # Theater of Pain
 
 
-Routes brought to you by **Graar** and **Hylo**!
+
+![Fortified](../__media/fortified.png)
+
+### [Dratnos/Graar Fortified](https://raw.githubusercontent.com/holicron/Routes/main/Theater%20of%20Pain/Dratnos_Graar_Fortified.txt)
+
+
 
 
 
