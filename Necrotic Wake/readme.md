@@ -6,7 +6,7 @@ Routes brought to you by **Graar**!
 
 ![Fortified](../__media/fortified.png)
 
-### [Fortified 1 Skip](https://raw.githubusercontent.com/holicron/Routes/main/Necrotic%20Wake/Fortiefied_1_Skip.txt)
+### [Fortified 1 Skip](https://raw.githubusercontent.com/holicron/Routes/main/Necrotic%20Wake/Fortified_1_Skip.txt)
 
 
 | Pride | Pull | Lust |
