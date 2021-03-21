@@ -19,7 +19,7 @@ Routes brought to you by **Graar**!
 
 ![Tyrannical](../__media/tyrannical.png)
 
-### [Buggy Beams Pristine](https://raw.githubusercontent.com/holicron/Routes/main/Halls%20of%20Atonement/Buggy_Beams_Pristine.txt)
+### [Buggy Beams Pristine 2](https://raw.githubusercontent.com/holicron/Routes/main/Halls%20of%20Atonement/Buggy_Beams_Pristine_2.txt)
 
 | Pride | Pull | Lust |
 | :-- | :-- | :-- |
